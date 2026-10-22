@@ -54,5 +54,7 @@ RESULT:
 Thus the staircase wiring is connected and tested.
 
 DONE BY:
+
 NAME:Moshikaa Suresh
+
 Register number:26000027
