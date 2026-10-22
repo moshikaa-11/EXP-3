@@ -45,14 +45,15 @@ CIRCUIT DIAGRAM:
 <img width="723" height="688" alt="DIRECT CONNECTION" src="https://github.com/user-attachments/assets/9eaaab60-f496-4625-a034-9ae7afc82816" />
 
 Tabulation:1
-<img width="1464" height="1600" alt="EXP 3" src="https://github.com/user-attachments/assets/75c17000-1aeb-4451-a62f-ab51f11a8b80" />
+<img width="1600" height="1404" alt="direct" src="https://github.com/user-attachments/assets/9e621b26-c23c-41eb-bc9a-3c3dfff8b9a4" />
+
 
 Cross connection: CIRCUIT DIAGRAM:
 
 <img width="709" height="548" alt="CROSS CONNECTION" src="https://github.com/user-attachments/assets/59623dc3-7cdd-4e50-93cd-b5e59ee54c27" />
 
 Tabulation:2
-<img width="1600" height="1205" alt="EX 3" src="https://github.com/user-attachments/assets/3fda443f-8b8e-42fa-a988-b204c4acd123" />
+<img width="1600" height="1345" alt="cross" src="https://github.com/user-attachments/assets/c2ae5dd2-d0ea-453f-80db-cac9e77c5b26" />
 
 
 RESULT:
